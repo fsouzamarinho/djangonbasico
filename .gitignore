@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuição
+bin/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Arquivos do ambiente virtual
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Logs e arquivos temporários
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.migrations/
+
+# Arquivos do banco de dados local
+db.sqlite3
+
+# Arquivos de configurações de IDEs
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos estáticos e de mídia
+/staticfiles/
+/media/
+
+# Arquivos de configuração do Django
+*.env
+local_settings.py
